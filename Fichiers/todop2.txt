@@ -1,0 +1,7 @@
+Contacter calendly : récuperer les informations des RDV pour la BDD.
+
+Table Société pour y regrouper plusieurs clients avec chacun leurs infos.
+
+Espace Admin : Pourvoir modifier les champs.
+
+Ajouter technicien dans la planification : techniciens sepcialisé ?

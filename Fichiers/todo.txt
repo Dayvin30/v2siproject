@@ -1,0 +1,9 @@
+Société / commentaire / fichiers / heure et date debut / fin [TERMINE]
+
+affichage des rendez-vous mode agenda [TERMINE]
+
+Besoin modifiable par l'utilisateur ( espace admin ? ) [TERMINE(saisie libre + proposition)]
+
+rediriger vers la page gestion apres modification [TERMINE]
+
+gerer clients basiquement [TERMINE]
